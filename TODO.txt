@@ -1,0 +1,13 @@
+- add looging
+- add readme at the end of my project
+- add unit and integration test (very basic)
+- add CI/CD pipelines
+- 
+
+
+knowlege:
+- Graph API
+- 365 microsoft SDK
+- Azure foundry and prompt engeneering
+- sementic kernel
+- Autogen
